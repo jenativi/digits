@@ -11,7 +11,7 @@ Digits is an application that allows users to:
 
 First, install [Meteor](https://docs.meteor.com/install.html)
 
-Second, download a copy of [Digits](https://github.com/bksnelson/digits/tree/main).
+Second, download a copy of [Digits](https://github.com/jenativi/digits).
 
 Third, cd into the app directory install the required libraries with:
 
